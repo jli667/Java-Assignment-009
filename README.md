@@ -17,6 +17,10 @@
 
 ```text
 ANSWER Why not? HERE
+- Because the program
+might not be able to
+handle large numbers by
+itself.
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -27,6 +31,9 @@ ANSWER Why not? HERE
 
 ```text
 ANSWER #4 HERE
+- It seems correct to 30 
+and so far it has been 
+able to go up to 5000.
 ```
 
 ## Submission
